@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
-- 👨‍💻 All of my projects are available at [http://kevin-brown.me/](http://kevin-brown.me/)
+- 👨‍💻 My most recent projects are available at [http://kevin-brown.me/](http://kevin-brown.me/)
 
 - 📫 You can reach me at **kevinbrown0234@gmail.com**
 
